@@ -1,0 +1,6 @@
+c:\users\shutterfox\documents\visual studio 2013\Projects\Savings\Savings\bin\Debug\Savings.exe.config
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\Savings\Savings\bin\Debug\Savings.exe
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\Savings\Savings\bin\Debug\Savings.pdb
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\Savings\Savings\obj\Debug\Savings.csprojResolveAssemblyReference.cache
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\Savings\Savings\obj\Debug\Savings.exe
+C:\Users\ShutterFox\documents\visual studio 2013\Projects\Savings\Savings\obj\Debug\Savings.pdb
